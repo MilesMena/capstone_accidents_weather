@@ -1,0 +1,4 @@
+# ignore word docs
+*.docx
+# ignore the data that we will need
+data/
